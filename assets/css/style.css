@@ -1,0 +1,15 @@
+#hd1
+{
+  text-align: center;
+  background-color: linen;
+}
+#prompt
+{
+  width: 400 ;
+  height: 300 ;
+  background-color: yellow;
+}
+.jumbotron
+{
+  background-color: yellow;
+}
